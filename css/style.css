@@ -1,0 +1,35 @@
+.options-form
+{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 11px 11px 11px 11px;
+    box-shadow: 0 4px 18px #C8C8C8;
+    font-weight: normal;
+    margin-left: 8px;
+    padding: 16px 16px 40px;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 30px;
+
+    
+}
+h3.pp-config-message,
+span.private_page_error
+{
+    display: block;
+
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+.options-form input.pp-submit
+{
+    margin: auto;
+    margin-top: 10px;
+    width: 100px;
+    display: block;
+}
